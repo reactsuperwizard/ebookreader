@@ -1,0 +1,41 @@
+[
+    {
+        "section": "ANESTESIOLOGÍA Y REANIMACIÓN",
+        "subsec": [
+            {
+                "title": "1 ANALGESIA Y SEDACIÓN",
+                "authors": [
+                    "Ruiz Chirosa, M. C. (M.I.R. de Anestesiología y Reanimación-CAUSA)",
+                    "García Fernández, E. (M.I.R. de Anestesiología y Reanimación-CAUSA)",
+                    "Sánchez Poveda, D. (M.I.R. de Anestesiología y Reanimación-CAUSA)",
+                    "Butiricá Aguirre, A. M. (M.I.R. de Anestesiología y Reanimación-CAUSA)",
+                    "Alonso Guardo, L. (Servicio de Anestesiología y Reanimación-CAUSA)"
+                ],
+                "section":"/maincontent/1",
+                "pos":1
+            },{
+                "title": "2 TERAPÉUTICA DEL DOLOR",
+                "authors": [
+                    "Sánchez Poveda, D. (M.I.R. de Anestesiología y Reanimación-CAUSA) ",
+                    "Butiricá Aguirre, A. M. (M.I.R. de Anestesiología y Reanimación-CAUSA)",
+                    "García Fernández, E. (M.I.R. de Anestesiología y Reanimación-CAUSA)",
+                    "Ruiz Chirosa, M. C. (M.I.R. de Anestesiología y Reanimación-CAUSA)",
+                    "Alonso Guardo, L. (Servicio de Anestesiología y Reanimación-CAUSA)"
+                ],
+                "section":"/maincontent/2",
+                "pos":2
+            },{
+                "title": "3 MANEJO DE LA VÍA AÉREA",
+                "authors": [
+                    "Butiricá Aguirre, A. M. (M.I.R. de Anestesiología y Reanimación-CAUSA)",
+                    "García Fernández, E. (M.I.R. de Anestesiología y Reanimación-CAUSA)",
+                    "Ruiz Chirosa, M. C. (M.I.R. de Anestesiología y Reanimación-CAUSA)",
+                    "Sánchez Poveda, D. (M.I.R. de Anestesiología y Reanimación-CAUSA)",
+                    "Alonso Guardo, L. (Servicio de Anestesiología y Reanimación-CAUSA)"
+                ],
+                "section":"/maincontent/3",
+                "pos":3
+            }
+        ]
+    }
+]

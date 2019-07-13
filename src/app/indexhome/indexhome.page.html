@@ -1,0 +1,28 @@
+<ion-content padding>
+  <ion-item color="primary">
+   <ion-label text-wrap text-center>
+          <ion-text>
+              MANUAL TERAPÉUTICO
+          </ion-text> <p></p>
+          <ion-text>
+              <ion-label text-wrap >ÍNDICE DE CAPÍTULOS Y AUTORES</ion-label>
+          </ion-text>
+          </ion-label> 
+  </ion-item>
+   
+<ion-list >
+  <div *ngFor="let data of indexdata">
+    &nbsp;
+      <ion-list-header color="primary">{{data.section}}</ion-list-header>
+      <ion-item *ngFor="let subc of data.subsec" [routerLink]="subc.section" [ngClass]="getClCss(subc.pos)">
+        <ion-label text-wrap>
+            <ion-text color="primary">
+                <h2>{{subc.title}}</h2>
+              </ion-text><p></p>
+              <ion-text><h6>{{subc.authors}}</h6></ion-text>
+          </ion-label>
+     </ion-item>
+  </div>
+  
+</ion-list>
+</ion-content>
